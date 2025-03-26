@@ -8,4 +8,5 @@ The code is written in Kotlin, with the UI designed using Jetpack Compose and na
 <body>
     <h1> Screen Android </h1>
       <img src="screenshots/home.jpg" alt="Demo GIF" width="150" style="margin-right: 50px;">
+         <img src="screenshots/details.jpg" alt="Demo GIF" width="150" style="margin-right: 50px;">
 </body>
